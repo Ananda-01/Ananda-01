@@ -1,5 +1,3 @@
-![Machine Learning Enthusiast](https://media.licdn.com/dms/image/v2/D5603AQEoizylyb7eDA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724401353938?e=1741824000&v=beta&t=QXtrScOWfDe50zqDM0fXMnRAP9eivCZQSmYUWTTI8Fc)
-
 
 ### Hi there 👋, I'm Ananda Das
 #### Machine Learning Enthusiast
