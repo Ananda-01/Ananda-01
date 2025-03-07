@@ -3,7 +3,7 @@
 #### Machine Learning Enthusiast
 
 
-I'm a Front End Developer and problem solver. I'm deeply passionate about machine learning and deep learning.
+I'm a Data Analyst and Data Science enthusiast. I'm deeply passionate about machine learning and deep learning.
 
 Skills: C++/Python/ JS / HTML / CSS/MATLAB
 
