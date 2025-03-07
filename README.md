@@ -5,7 +5,7 @@
 
 I'm a Data Analyst and Data Science enthusiast. I'm deeply passionate about machine learning and deep learning.
 
-Skills: C++/Python/ JS / HTML / CSS/MATLAB
+Skills: C++/Python/SQL/MATLAB/Excel/Data Analysis
 
 - 🔭 I’m currently working on Phitron 
 - 🌱 I’m currently learning Data structure and algorithm 
