@@ -1,16 +1,16 @@
 
 ### Hi there 👋, I'm Ananda Das
-#### Machine Learning Enthusiast
+#### Deep Learning Enthusiast
 
 
-I'm deeply passionate about machine learning and deep learning.
+I'm deeply passionate about deep learning and Large Language Model(LLM)
 
 Skills: C++/Python/SQL/MATLAB/Excel/Data Analysis
 
-- 🔭 I’m currently working on Phitron 
+- 🔭 I’m currently working on Agentic AI Safety
 - 🌱 I’m currently learning Data structure and algorithm 
 - 👯 I’m looking to collaborate on github 
-- 💬 Ask me about Front End 
+- 💬 Ask me about NLP
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ananda-01)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ananda-das-32920b216//)  
