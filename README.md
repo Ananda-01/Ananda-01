@@ -8,7 +8,7 @@ I'm deeply passionate about deep learning and Large Language Model(LLM)
 Skills: C++/Python/SQL/MATLAB/Excel/Data Analysis
 
 - 🔭 I’m currently working on Agentic AI Safety
-- 🌱 I’m currently learning Data structure and algorithm 
+- 🌱 I’m currently learning multi-agent system and monitoring them 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about NLP
 
